@@ -1,0 +1,21 @@
+h1 {
+    font-size: 1,5rem;
+    color: rgb(255, 0, 0);
+   }
+
+body {
+    background-color: rgb(2, 93, 173);
+}
+
+p {
+    font-size: medium;
+    color: aliceblue;
+}
+
+h2 {
+    color: rgb(218, 19, 201);
+}
+
+h3 {
+    color: blue;
+}
